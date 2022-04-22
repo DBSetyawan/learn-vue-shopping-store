@@ -1,0 +1,58 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "title": "The Dog Hoodie",
+      "description": "This is the best pet in the world",
+      "price": 19.99,
+      "qty": 1
+    },
+    {
+      "id": "2",
+      "title": "The Janki",
+      "description": "The best dog bones of all time. Holy crap. Your ",
+      "price": 15.99,
+      "qty": 1
+    },
+    {
+      "id": "3",
+      "title": "Amazon Kindle",
+      "description": "The best amazon kindle for e-book readers",
+      "price": 140.99,
+      "qty": 1
+    },
+    {
+      "id": "4",
+      "title": "Amazon LED",
+      "description": "The best Amazon LED monitor for Developers! ",
+      "price": 1000.99,
+      "qty": 1
+    }
+  ],
+  "cart": [
+    {
+      "id": "1537782692316",
+      "title": "Amazon LED",
+      "description": "The best Amazon LED monitor for Developers! ",
+      "price": 1000.99,
+      "qty": 1,
+      "createdAt": 1537782692346
+    },
+    {
+      "id": "1537783175220",
+      "title": "The Dog Hoodie",
+      "description": "This is the best pet in the world",
+      "price": 19.99,
+      "qty": 1,
+      "createdAt": 1537783175262
+    },
+    {
+      "id": "1537783180539",
+      "title": "The Janki",
+      "description": "The best dog bones of all time. Holy crap. Your ",
+      "price": 15.99,
+      "qty": 1,
+      "createdAt": 1537783180580
+    }
+  ]
+}
