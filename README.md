@@ -15,6 +15,11 @@ yarn run serve
 yarn run build
 ```
 
+### Run by using fake npx server
+```
+npx json-server --watch db.json
+```
+
 ### Lints and fixes files
 ```
 yarn run lint
